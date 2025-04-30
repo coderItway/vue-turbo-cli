@@ -27,6 +27,17 @@ function createProject(project) {
     spinner.succeed();
   });
 
+  // const { spawn, exec } = child_process;
+
+  // exec('git clone -b main https://github.com/FEIFEI818-LI/VueTurbo.git test-exec', (err, stdout, stderr) => {
+  //     if (err) {
+  //         console.error(err);
+  //         return;
+  //     }
+  //     console.log(stdout);
+  //     console.log('123 :>> ', 123);
+  // })
+
   // download(template, name, { clone: true }, async function (err) {
   //   if (err) {
   //     red(err);

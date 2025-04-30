@@ -33,12 +33,12 @@ const create = [
       {
         key: "a",
         name: "admin",
-        value: "https://github.com/FEIFEI818-LI/VueTurbo.git",
+        value: "https://github.com/coderItway/VueTurbo.git",
       },
       {
         key: "b",
         name: "h5",
-        value: "https://github.com/FEIFEI818-LI/VueTurboH5.git",
+        value: "https://github.com/coderItway/VueTurboH5.git",
       },
     ],
     filter: function (val) {

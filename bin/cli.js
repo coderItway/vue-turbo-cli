@@ -16,6 +16,9 @@ console.log('\r\n' + figlet.textSync('VueTurbo', {
   width: 100,
   whitespaceBreak: true
 }));
+// 测试
+console.log("123");
+alert("123");
 
 const { red } = myChalk;
 
